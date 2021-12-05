@@ -1,0 +1,45 @@
+﻿commit 0eeed1c7b856eb89e203320c92a22874468e2463
+
+Author: Fill <Fill123@correo.com>
+
+Date:   Mon Jun 21 17:08:48 2021 -0500
+
+
+
+    Se agregó un párrafo y se cambio los estilos del botón
+
+
+
+commit a83b4c1df8f696481a2c5906575fcf1b317cd547
+
+Author: Fill <Fill123@correo.com>
+
+Date:   Mon Jun 21 17:01:26 2021 -0500
+
+
+
+    Agregamos Twitter a la página
+
+
+
+commit 9d9514e7802020e5379e592ded440d14a644dcc3
+
+Author: Fill <Fill123@correo.com>
+
+Date:   Mon Jun 21 16:31:00 2021 -0500
+
+
+
+    Iniciamos
+
+
+
+commit 8c2e3e3c4e29e2bb862be431a25af8e1b96c84a7
+
+Author: prueba <conade@misena.edu.co>
+
+Date:   Fri Jun 4 15:10:46 2021 -0500
+
+
+
+    Iniciamos
